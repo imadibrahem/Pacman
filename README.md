@@ -1,8 +1,6 @@
 
-# Pacman AI Project – Phase B
+# Pacman AI Project 
 
-**Course**: Introduction to AI – CS487, Fall 2021  
-**Deadline**: 18/01/2022
 
 ## Overview
 
